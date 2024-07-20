@@ -2,7 +2,8 @@
 - 👀 I’m interested in mainly front-end development
 - 🌱 I’m currently learning, Python, JavaScript, HTML, CSS, C & Java. 
 - 💞️ I’m looking to collaborate on mobile app/game projects & web development.
-- 📫 How to reach me you don't :)
+- 📫 Reach me on Linkedin @ www.linkedin.com/in/
+harley-louis-jackson
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: coffee and smoke get me through the day
 
