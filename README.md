@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @harljackson, aka Harley Louis Jackson. 
-- 👀 I’m interested in: Mainly front-end web development.
-- 🌱 I’m currently learning: CSS, HTML, JavaScript, Python & React. 
+- 👋 Hi, I’m @harljackson, aka Harley Jackson. 
+- 👀 I’m interested in: Full-stack web development.
+- 🌱 I’m currently learning: tailwindcss, html, javascript, mysql, php. 
 - 💞️ I’m looking to collaborate with: Back-end developers, designers, marketers, and QA teams to build and optimize user-friendly, responsive websites.
 - 📫 Reach me on Linkedin @ www.linkedin.com/in/harley-louis-jackson
 - 😄 Pronouns: he/him
