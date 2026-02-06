@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Harley Jackson (@harljackson)
 
 🎓 **Final-year BSc Computer Science student** with hands-on experience building **full-stack web apps, machine learning projects, and systems-level software**.  
-I’m particularly interested in **software engineering and cybersecurity-focused roles**.
+I’m particularly interested in **IT and cybersecurity-focused roles**.
 
 ---
 
