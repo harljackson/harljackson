@@ -6,7 +6,7 @@ I’m particularly interested in **IT and cybersecurity-focused roles**.
 ---
 
 ## 🚀 About Me
-- 👀 Interested in **full-stack development, software engineering, and cybersecurity**
+- 👀 Interested in **full-stack development, IT technologies, and cybersecurity**
 - 🌱 Currently working with **HTML, CSS, JavaScript, Tailwind CSS, PHP, MySQL, Python, and C++**
 - 🧠 Strong focus on **problem-solving, clean architecture, and real-world applications**
 - 🛠️ Actively building **portfolio-quality projects** alongside university coursework
