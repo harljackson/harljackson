@@ -101,4 +101,4 @@ Especially on **learning-focused, open-source, or portfolio-driven projects**.
 ---
 
 ## 😄 Fun Fact
-⚡ When I’m not coding, I’m usually hanging out with my cat — the real boss of my workspace 🐱
+⚡ When I’m not coding, I’m usually hanging out with my cat who is the real boss of my workspace 🐱
