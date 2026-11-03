@@ -1,104 +1,88 @@
-# 👋 Hi, I’m Harley Jackson (@harljackson)
+# 👋 Hi, I'm Harley Jackson (@harljackson)
 
-🎓 **Final-year BSc Computer Science student** with hands-on experience building **full-stack web apps, machine learning projects, and systems-level software**.  
-I’m particularly interested in **IT and cybersecurity-focused roles**.
+🎓 **First-Class Honours BSc Computer Science graduate** from Liverpool Hope University, with hands-on experience in **Python, machine learning, software development, and network security research**.
+
+🔐 I'm particularly interested in starting and developing a career in **cybersecurity**, including security monitoring, vulnerability management, and incident response.
+
+🌐 **Portfolio:** https://harleyjackson.co.uk
 
 ---
 
 ## 🚀 About Me
-- 👀 Interested in **full-stack development, IT technologies, and cybersecurity**
-- 🌱 Currently working with **HTML, CSS, JavaScript, Tailwind CSS, PHP, MySQL, Python, and C++**
-- 🧠 Strong focus on **problem-solving, clean architecture, and real-world applications**
-- 🛠️ Actively building **portfolio-quality projects** alongside university coursework
+- 🔍 Interested in **cybersecurity, secure software development, networking, and emerging technologies**
+- 🐍 Experienced with **Python**, machine learning, data analysis, and technical troubleshooting through university projects
+- 💻 Built applications using **JavaScript, React, HTML, CSS, C++, PHP, and SQL**
+- 🛠️ Use **Git and GitHub** for version control and managing personal projects
+- 📚 Keen to build practical skills in cloud security, security tooling, and incident response as I begin my professional career
 
 ---
 
 ## 🧩 Featured Projects
 
-### 🔐 VoiceDemographicsNet  
+### 🛡️ AI-Powered Intrusion Detection System — Final-Year Dissertation
+**Cybersecurity | Python | Machine Learning | CICIDS2017**
+- Developed a machine-learning intrusion detection system to classify network traffic as **benign or DDoS-related**
+- Worked with the **CICIDS2017** dataset and compared **Random Forest** and **Logistic Regression** models
+- Evaluated model performance using measures including **false positives, false negatives, and ROC/AUC**
+- Strengthened my skills in **network security concepts, Python, data preprocessing, testing, and analytical problem-solving**
+- [View project on GitHub](https://github.com/harljackson/ai-realtime-ddos-ids)
+
+### 🔐 VoiceDemographicsNet
 **Machine Learning | Python**
-- Built a machine learning system that predicts **gender and age group from voice audio**
+- Built a machine learning system to predict **gender and age group from voice audio**
 - Used **MFCC feature extraction**, data preprocessing, and neural networks
 - Worked with the **Mozilla Common Voice dataset**
-- Focused on **model evaluation, bias awareness, and ethical considerations**
+- Considered **model evaluation, bias awareness, and ethical implications**
 
----
-
-### 🏠 Smart Home Automation System  
+### 🏠 Smart Home Automation System
 **C++ | Object-Oriented Programming**
 - Developed a terminal-based smart home simulation
-- Implemented:
-  - Inheritance & polymorphism  
-  - Dynamic memory management  
-  - Operator overloading  
-- Managed devices such as lights, thermostats, and sensors with energy tracking
+- Applied **inheritance, polymorphism, dynamic memory management, and operator overloading**
+- Modelled connected devices such as lights, thermostats, and sensors with energy tracking
 
----
+### 🌦️ Weather Intelligence System
+**Web Development | JavaScript | Machine Learning**
+- Developed an AI-powered weather application with rain prediction features
+- Integrated **external weather APIs, client-side machine learning, and interactive charts**
+- Practised debugging, API integration, and accessible interface design
 
-### 🌦️ Weather Intelligence System  
-**Web App | JavaScript + ML**
-- AI-powered web application predicting **rain probability**
-- Integrated:
-  - External weather APIs  
-  - Client-side ML logic  
-  - Interactive charts and UI components  
-- Designed with usability and accessibility in mind
-
----
-
-### 🎮 Interactive 3D Model Viewer  
+### 🎮 Interactive 3D Model Viewer
 **C++ | OpenGL**
-- Built a real-time 3D model viewer featuring:
-  - Model loading (.OBJ)
-  - Camera controls & transformations
-  - Lighting and materials
-  - ImGui-based UI
-- Demonstrates understanding of **computer graphics pipelines**
-
----
+- Built a real-time 3D viewer with **OBJ model loading, camera controls, lighting, and materials**
+- Used an **ImGui-based interface** and explored computer graphics pipelines
 
 ### 🌐 Web Development Projects
-- Responsive portfolio website using **HTML, CSS, JavaScript, and Tailwind**
-- Focus on:
-  - Accessibility (semantic HTML, alt text, skip links)
-  - Clean UI/UX
-  - Modern layouts and animations
+- Built responsive websites and applications using **HTML, CSS, JavaScript, React, and Tailwind CSS**
+- Focused on **accessibility, usability, API integration, and maintainable code**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-**Languages**
-- JavaScript, Python, C++, PHP, SQL  
+**Programming:** Python, JavaScript, C++, PHP, SQL
 
-**Frontend**
-- HTML5, CSS3, Tailwind CSS  
+**Cybersecurity foundations:** Network traffic analysis, DDoS detection concepts, intrusion detection, security-focused data analysis
 
-**Backend & Databases**
-- PHP, MySQL  
+**Software & Web:** React, HTML5, CSS3, Tailwind CSS, APIs
 
-**Tools & Platforms**
-- Git & GitHub  
-- VS Code  
-- OpenGL / ImGui  
-- Jupyter Notebook  
+**Data & Machine Learning:** Scikit-learn, data preprocessing, model evaluation, Jupyter Notebook
+
+**Tools:** Git, GitHub, VS Code, OpenGL / ImGui
+
+**Currently looking to develop:** Cloud security, Microsoft Azure, vulnerability assessment, and security monitoring
 
 ---
 
 ## 🤝 Collaboration
-💞️ I’m open to collaborating with:
-- Developers (frontend, backend, systems)
-- Designers & UX-focused teams
-- QA testers and technical writers  
-
-Especially on **learning-focused, open-source, or portfolio-driven projects**.
+I'm open to collaborating on **cybersecurity learning projects, Python tools, software development, and open-source projects**. I enjoy solving technical problems and learning from other developers.
 
 ---
 
 ## 📫 Get in Touch
-- 💼 LinkedIn: https://www.linkedin.com/in/harley-louis-jackson
+- 🌐 **Portfolio:** https://harleyjackson.co.uk
+- 💼 **LinkedIn:** https://www.linkedin.com/in/harley-louis-jackson
 
 ---
 
 ## 😄 Fun Fact
-⚡ When I’m not coding, I’m usually hanging out with my cat who is the real boss of my workspace 🐱
+⚡ When I'm not coding, I'm usually at the gym, gaming, or hanging out with my cat — the real boss of my workspace 🐱
