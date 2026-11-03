@@ -85,4 +85,4 @@ I'm open to collaborating on **cybersecurity learning projects, Python tools, so
 ---
 
 ## 😄 Fun Fact
-⚡ When I'm not coding, I'm usually at the gym, gaming, or hanging out with my cat — the real boss of my workspace 🐱
+⚡ When I'm not coding, I'm usually at the gym, gaming, or hanging out with my cat - the real boss of my workspace 🐱
