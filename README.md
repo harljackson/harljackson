@@ -19,7 +19,7 @@
 
 ## 🧩 Featured Projects
 
-### 🛡️ AI-Powered Intrusion Detection System — Final-Year Dissertation
+### 🛡️ AI-Powered Intrusion Detection System - Final-Year Dissertation
 **Cybersecurity | Python | Machine Learning | CICIDS2017**
 - Developed a machine-learning intrusion detection system to classify network traffic as **benign or DDoS-related**
 - Worked with the **CICIDS2017** dataset and compared **Random Forest** and **Logistic Regression** models
